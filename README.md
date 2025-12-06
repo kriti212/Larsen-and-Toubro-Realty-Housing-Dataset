@@ -1,8 +1,3 @@
-Here is a **clean, simple, human-written style README** you can paste directly into GitHub.
-No emojis, no AI tone, no overly polished structure—just a natural, clear description.
-
----
-
 # Interactive Housing Data Dashboard
 
 This project contains an interactive dashboard built using the Larsen & Toubro Realty Housing Dataset. The dashboard allows users to explore various housing attributes and understand how factors such as location, property type, amenities, furnishing level, and metro accessibility influence pricing. It provides a visual and data-driven view of real estate patterns across major Indian cities.
